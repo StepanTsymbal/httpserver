@@ -59,14 +59,6 @@ public class Server {
         
         server.createContext("/setinfo", new SetHandler());
         server.start();
-        
-        userService.putUser(new User(1,1,1));
-        userService.putUser(new User(2,1,1));
-        userService.putUser(new User(3,1,1));
-        userService.putUser(new User(4,1,1));
-        userService.putUser(new User(5,1,1));
-        userService.putUser(new User(6,1,1));
-        userService.putUser(new User(7,1,1));
 
         LOGGER.info("Server has been started on port " + PORT);
     }
