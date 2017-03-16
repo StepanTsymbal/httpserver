@@ -1,0 +1,85 @@
+2017-03-16 21:47:01 INFO  Server - Server has been started on port 8000
+2017-03-16 21:47:17 INFO  Server - Fetching users by ID = 11
+2017-03-16 21:47:32 INFO  Server - Adding User [id=11, level=12, result=12.0]
+2017-03-16 21:47:39 INFO  Server - Adding User [id=12, level=12, result=12.0]
+2017-03-16 21:47:43 INFO  Server - Adding User [id=13, level=12, result=12.0]
+2017-03-16 21:47:46 INFO  Server - Adding User [id=14, level=12, result=12.0]
+2017-03-16 21:47:49 INFO  Server - Adding User [id=15, level=12, result=12.0]
+2017-03-16 21:47:52 INFO  Server - Adding User [id=16, level=12, result=12.0]
+2017-03-16 21:47:55 INFO  Server - Adding User [id=17, level=12, result=12.0]
+2017-03-16 21:47:58 INFO  Server - Adding User [id=18, level=12, result=12.0]
+2017-03-16 21:48:01 INFO  Server - Adding User [id=19, level=12, result=12.0]
+2017-03-16 21:48:09 INFO  Server - Adding User [id=20, level=12, result=12.0]
+2017-03-16 21:48:13 INFO  Server - Adding User [id=21, level=12, result=12.0]
+2017-03-16 21:48:15 INFO  Server - Adding User [id=22, level=12, result=12.0]
+2017-03-16 21:48:17 INFO  Server - Adding User [id=23, level=12, result=12.0]
+2017-03-16 21:48:20 INFO  Server - Adding User [id=24, level=12, result=12.0]
+2017-03-16 21:48:24 INFO  Server - Adding User [id=25, level=12, result=12.0]
+2017-03-16 21:48:26 INFO  Server - Adding User [id=26, level=12, result=12.0]
+2017-03-16 21:48:29 INFO  Server - Adding User [id=27, level=12, result=12.0]
+2017-03-16 21:48:32 INFO  Server - Adding User [id=28, level=12, result=12.0]
+2017-03-16 21:48:35 INFO  Server - Adding User [id=29, level=12, result=12.0]
+2017-03-16 21:48:40 INFO  Server - Adding User [id=30, level=12, result=12.0]
+2017-03-16 21:49:12 INFO  Server - Fetching users by LEVEL = 11
+2017-03-16 21:49:16 INFO  Server - Fetching users by LEVEL = 12
+2017-03-16 22:02:48 INFO  Server - Server has been started on port 8000
+2017-03-16 22:03:04 INFO  Server - Fetching users by ID = 1
+2017-03-16 22:03:47 INFO  Server - Adding User [id=1, level=5, result=1.2]
+2017-03-16 22:04:06 INFO  Server - Fetching users by ID = 1
+2017-03-16 22:07:51 INFO  Server - Server has been started on port 8000
+2017-03-16 22:07:56 INFO  Server - Fetching users by ID = 1
+2017-03-16 22:08:28 INFO  Server - Adding User [id=1, level=5, result=1.2]
+2017-03-16 22:08:37 INFO  Server - Fetching users by ID = 1
+2017-03-16 22:19:03 INFO  Server - Server has been started on port 8000
+2017-03-16 22:19:11 INFO  Server - Fetching users by ID = 1
+2017-03-16 22:19:33 INFO  Server - Adding User [id=1, level=5, result=1.2]
+2017-03-16 22:19:44 INFO  Server - Fetching users by ID = 11
+2017-03-16 22:20:09 INFO  Server - Fetching users by ID = 1
+2017-03-16 23:06:54 INFO  Server - Server has been started on port 8000
+2017-03-16 23:07:03 INFO  Server - Adding User [id=1, level=5, result=1.2]
+2017-03-16 23:07:17 INFO  Server - Fetching users by LEVEL = 5
+2017-03-16 23:07:24 INFO  Server - Fetching users by ID = 1
+2017-03-16 23:29:59 INFO  Server - Server has been started on port 8000
+2017-03-16 23:30:23 INFO  Server - Adding User [id=5, level=1, result=1.2]
+2017-03-16 23:30:49 INFO  Server - Fetching users by LEVEL = 
+2017-03-16 23:31:07 INFO  Server - Fetching users by ID = 1
+2017-03-16 23:31:26 INFO  Server - Fetching users by LEVEL = 
+2017-03-16 23:33:04 INFO  Server - Server has been started on port 8000
+2017-03-16 23:33:11 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:34:01 INFO  Server - Server has been started on port 8000
+2017-03-16 23:34:05 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:34:18 INFO  Server - Fetching users by LEVEL = 2
+2017-03-16 23:34:25 INFO  Server - Fetching users by LEVEL = 3
+2017-03-16 23:34:38 INFO  Server - Fetching users by ID = 1
+2017-03-16 23:35:12 INFO  Server - Adding User [id=1, level=5, result=1.2]
+2017-03-16 23:35:21 INFO  Server - Fetching users by ID = 1
+2017-03-16 23:36:14 INFO  Server - Server has been started on port 8000
+2017-03-16 23:36:24 INFO  Server - Fetching users by ID = 1
+2017-03-16 23:36:33 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:36:51 INFO  Server - Fetching users by LEVEL = 2
+2017-03-16 23:36:54 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:38:53 INFO  Server - Server has been started on port 8000
+2017-03-16 23:38:57 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:39:29 INFO  Server - Server has been started on port 8000
+2017-03-16 23:39:33 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:40:05 INFO  Server - Adding User [id=5, level=1, result=1.2]
+2017-03-16 23:40:13 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:40:55 INFO  Server - Server has been started on port 8000
+2017-03-16 23:41:02 INFO  Server - Fetching users by LEVEL = 
+2017-03-16 23:41:23 INFO  Server - Adding User [id=5, level=1, result=1.2]
+2017-03-16 23:41:33 INFO  Server - Fetching users by ID = 1
+2017-03-16 23:41:45 INFO  Server - Fetching users by LEVEL = 
+2017-03-16 23:42:08 INFO  Server - Server has been started on port 8000
+2017-03-16 23:42:13 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:42:33 INFO  Server - Adding User [id=5, level=1, result=1.2]
+2017-03-16 23:42:43 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:43:03 INFO  Server - Fetching users by ID = 2
+2017-03-16 23:43:06 INFO  Server - Fetching users by ID = 1
+2017-03-16 23:46:39 INFO  Server - Server has been started on port 8000
+2017-03-16 23:46:47 INFO  Server - Fetching users by ID = 1
+2017-03-16 23:46:55 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:47:10 INFO  Server - Adding User [id=5, level=1, result=1.2]
+2017-03-16 23:47:10 INFO  Server - Adding User [id=5, level=1, result=1.2]
+2017-03-16 23:47:21 INFO  Server - Fetching users by LEVEL = 1
+2017-03-16 23:47:43 INFO  Server - Adding User [id=5, level=1, result=1.2]
+2017-03-16 23:47:55 INFO  Server - Fetching users by LEVEL = 1
